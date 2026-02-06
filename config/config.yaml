@@ -6,3 +6,4 @@ data_ingestion:
   source_URL: https://www.kaggle.com/api/v1/datasets/download/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
   local_data_file: artifacts/data_ingestion/data.zip
   unzip_dir: artifacts/data_ingestion
+  dataset_name: data.csv
